@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Pradeeep Sanjaya",
+    "email": "sanjayangp@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ngpsanjaya/node-holiday-lk/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Holidays in Sri Lanka, NodeJs porting of Ruby holiday_jp",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/ngpsanjaya/node-holiday-lk",
+  "keywords": [
+    "calendar",
+    "sinhalese",
+    "holiday"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "holiday-lk",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ngpsanjaya/node-holiday-lk.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "version": "1.0.0"
+}

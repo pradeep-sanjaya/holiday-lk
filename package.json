@@ -4,7 +4,7 @@
     "email": "sanjayangp@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/ngpsanjaya/node-holiday-lk/issues"
+    "url": "https://github.com/pradeep-sanjaya/holiday-lk/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -12,7 +12,7 @@
   "devDependencies": {
     "mocha": "*"
   },
-  "homepage": "https://github.com/ngpsanjaya/node-holiday-lk",
+  "homepage": "https://github.com/pradeep-sanjaya/holiday-lk",
   "keywords": [
     "calendar",
     "sinhalese",
